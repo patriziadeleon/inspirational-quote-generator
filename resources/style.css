@@ -5,7 +5,7 @@
 }
 
 body {
-  background-image: url(photo.jpg);
+  background-image: url(photos/photo.jpg);
   display: flex;
   align-items: center;
   justify-content: center;
