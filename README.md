@@ -17,4 +17,4 @@ This is a simple and easy random inspirational quote generator that shows you a 
 
 ---
 
-Click on the index.html file and once the page loads, you can start pressing on the 'next quote' button to generate a random quote with inspirational words from people who are known or not so known but chooses wise words about life.
+Click [here](https://patriziadeleon.github.io/inspirational-quote-generator/) to load the page. Once loaded, you can start pressing on the 'next quote' button to generate a random quote with inspirational words from people who are known or not so known but chooses wise words about life.
