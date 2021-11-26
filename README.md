@@ -1,13 +1,20 @@
-1. Create HTML, CSS and Javascript files
+# Inspirational Quote Generator
 
-2. In the Javascript file, create an array of objects with inspira22tional quotes and their authors - store it in a variable. This is where all the quotes and authors will be stored
+---
 
-3. To pick out random quotes within the array, create a function and use the Math object and the random method, plus the floor method to round down, in order to generate an index number to pick out a random element in the array.
+This is a simple and easy random inspirational quote generator that shows you a random quote every time you click the 'next quote' button with the author's name, which the quote belongs to. I created this using HTML, CSS and Javascript.
 
-4. Create separate variables that locates the inspirational quote and authors that was randomly generated from the array.
+## Technologies Used:
 
-5. Use the DOM to locate where the inspirational quote and author will be set
+---
 
-6. In the HTML file, create a button in the HTML file, using this to interact and allow users to click and start generating a random quote by using an event listener of click on the button and execute the generator function
+- Text Editor: Visual Studio Code
+- HTML (HyperText Markup Language)
+- CSS (Cascading Style Sheets)
+- Javascript ES6
 
-7. Use CSS to style and position the quotes, author names, buttons and title to l;ook presentable.
+## Getting Started:
+
+---
+
+Click on the index.html file and once the page loads, you can start pressing on the 'next quote' button to generate a random quote with inspirational words from people who are known or not so known but chooses wise words about life.

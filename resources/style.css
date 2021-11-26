@@ -5,7 +5,7 @@
 }
 
 body {
-  background-image: url(resources/photos/photo.jpg);
+  background-image: url(photo.jpg);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -30,6 +30,7 @@ body {
   font-size: 30px;
   transform: translate(-5px, -10px) rotate(5deg);
   color: #3c3b5f;
+  /* color: #f06553; */
 }
 .fa-quote-right {
   font-size: 25px;
@@ -38,6 +39,7 @@ body {
 }
 
 .quote {
+  /* font-style: italic; */
   color: #381c2a;
   text-align: center;
   font-size: 30px;
